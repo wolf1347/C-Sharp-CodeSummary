@@ -1,6 +1,3 @@
-# C-Sharp-CodeSummary
-All about my time working on the C# live project
-
 # Overview:
 
 The project that I had the opportunity to work on was a pre-existing code base for a web application being created for a Theater company using ASP .Net MVC and Entity Framework. Since it was a pre existing code base that was near completion I was able to work on both back end and front end stories to enhance the existing features. It was a great experience that really allowed me to focus on skills pertaining to learning how an existing application functions and working within its confines.
